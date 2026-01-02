@@ -1,0 +1,2 @@
+px,py,score,level,health,ex1,ey1,enemy1Health,enemy1moveright,ex2,ey2,enemy2Health,enemy2moveright,moveUpperLeft,enemy2movedown,ex3,ey3,enemy3Health,enemy3moveright,moveUpperRight,enemy3movedown,level2reached,level3reached
+31,33,300,3,100,92,6,0,1,81,14,0,0,0,0,32,12,0,0,0,0,0,0
